@@ -44,3 +44,13 @@ user_pref("layout.css.always_underline_links", true);
 
 // format on copy markups
 user_pref("devtools.markup.beautifyOnCopy", true);
+
+// disable auto hide popup for devtools
+user_pref("devtools.popup.disable_autohide", true);
+
+// debug popup
+user_pref("devtools.popups.debug", true);
+
+// disable auto hide popup
+user_pref("ui.popup.disable_autohide", true);
+
