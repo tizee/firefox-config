@@ -4,7 +4,7 @@
 
 ## Installation
 
-- Install to `prefs.js` in Firefox's `Profiles` directory.
+- Install to the same direcotry of `prefs.js`, which is Firefox's `Profiles` directory.
 - Open `about:support` in Firefox > Application Basics > Profile Folder > Show in Finder/Explorer
 
 ### mac
