@@ -40,7 +40,7 @@ user_pref("findbar.highlightAll", true);
 user_pref("findbar.modalHighlight", true);
 
 // underline for a tags
-user_pref("layout.css.always_underline_links", true);
+user_pref("layout.css.always_underline_links", false);
 
 // format on copy markups
 user_pref("devtools.markup.beautifyOnCopy", true);
