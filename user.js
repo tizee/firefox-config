@@ -54,3 +54,5 @@ user_pref("devtools.popups.debug", true);
 // disable auto hide popup
 user_pref("ui.popup.disable_autohide", true);
 
+// install self-bundled extension
+user_pref("xpinstall.signatures.required", false);
